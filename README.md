@@ -1,2 +1,2 @@
 # better-com
-Teams communication app
+Teams sharing and communication app
